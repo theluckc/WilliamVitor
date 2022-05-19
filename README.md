@@ -1,4 +1,4 @@
-# Hi, let me show to u a little more about me:
+# Hi, let me show to you a little more about me:
 
 Hello, My name is William Vitor, and i am a FULL-Stack developer.
 I work at Ainnovation with Infrastructure and developing.
@@ -7,19 +7,19 @@ You can find me in here:
 
 <a href="https://www.linkedin.com/in/williamvitor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-This are the languages and tools that i use:
+Here a few of my skills:
   
-Cloud
+Cloud:
 
 <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" ><a/>
    
-Database
+Database:
   
 <a href="#"><img src="https://img.shields.io/badge/Amazon%20RDS-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" ><a/>
 <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" ><a/>
 <a href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" ><a/>
    
-Frameworks
+Frameworks:
   
 <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" ><a/>
 <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" ><a/>
@@ -34,7 +34,7 @@ Frameworks
 <a href="#"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" ><a/>
 <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ><a/>
 
-Languages
+Languages:
 
 <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" ><a/>
 <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" ><a/>
@@ -46,7 +46,7 @@ Languages
 <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" ><a/>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" ><a/>
   
-Office
+Office:
 
 <a href="#"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" ><a/>
 <a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" ><a/>
