@@ -3,5 +3,4 @@ I work at Ainnovation with Infrastructure and developing.
 
 You can find me in here:
 
-
-[<a href="#"><img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black&labelColor=61DAFB" alt="React Logo"></a>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="#"><img src="alexandresanlim/Badges4-README.md-Profile: 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges." alt="React Logo"></a>
