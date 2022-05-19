@@ -1,3 +1,5 @@
+# Hi, let me show to u a little more about me:
+
 Hello, My name is William Vitor, and i am a FULL-Stack developer.
 I work at Ainnovation with Infrastructure and developing.
 
@@ -16,11 +18,6 @@ Database
 <a href="#"><img src="https://img.shields.io/badge/Amazon%20RDS-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" ><a/>
 <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" ><a/>
 <a href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" ><a/>
-  
-Education
-  
-<a href="#"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" ><a/>
-<a href="#"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" ><a/>
    
 Frameworks
   
