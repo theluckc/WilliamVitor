@@ -1,6 +1,6 @@
 # Hi, let me show to you a little more about me:
 
-Hello, My name is William Vitor, and i am a FULL-Stack developer.
+My name is William Vitor, and i am a FULL-Stack developer.
 I work at Ainnovation with Infrastructure and developing.
 
 You can find me in here:
