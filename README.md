@@ -9,9 +9,11 @@ You can find me in here:
 
 Here a few of my skills:
   
-Cloud:
+Cloud/Services:
 
 <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" ><a/>
+<a href="#"><img src="https://img.shields.io/badge/Microsoft_IIS-666666?style=for-the-badge&logo=microsoft&logoColor=white" ><a/>
+<a href="#"><img src="https://img.shields.io/badge/Active Directory-007FFF?style=for-the-badge&logo=microsoft&logoColor=white" ><a/>
    
 Database:
   
